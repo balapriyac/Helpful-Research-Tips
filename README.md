@@ -3,6 +3,7 @@
 Some helpful writing advice for grad students:
 - [How to improve your writing: A guide for PhD students and academics](https://www.youtube.com/watch?v=StUQbTiYmB8)
 - [How to write your PhD thesis (without going insane)](https://www.youtube.com/watch?v=pM6orL-bGDc)
+- [Observation over Distraction | Write like a PhD Student](https://www.youtube.com/watch?v=zLTHmUmpDKQ)
 
 General PhD (survival) guides:
 - [The basic principles every PhD student needs to know](https://youtu.be/VrMwAOtB9S4)
